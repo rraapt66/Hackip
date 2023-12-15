@@ -1,4 +1,4 @@
-setlocal > OS.exe
+setlocal > Hack_ip_tools.exe
 endloacl
 echo >> Thanks-for-use > endHack_ip.txt
 start endHack_ip.txt
